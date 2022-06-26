@@ -1,0 +1,30 @@
+Nomenclaturas e abreviações
+
+Forma de criação dos nomes dos componentes(controles)
+(Tipo do controle)+(Nome do campo)+(Id pacote visão), exemplo abaixo:
+jTF+DescEPI+CadEPIs = jTFDescEPICadEPIs
+
+
+*Abreviação dos controles
+jLabel = jL
+jTextField = jTF
+jButton = jB
+jRadioButton = jRB
+jPanel = jP
+jTable = jT
+jScrollPane = jSP
+buttonGroup = bG
+jFormattedTextField = jFTF
+jComboBox = jCB
+
+
+*Pacote visao (Id pacote visão)
+TelaCadEPIVis = CadEPIs
+TelaCadEntEPIVis = CadEntrega
+TelaCadUsuariosVis = CadUsu
+TelaLoginVis = Log
+
+
+
+Regras de nomenclaturas Java
+https://profsalu.com/2014/11/25/regras-e-convencoes-para-nomenclatura-de-classes-pacotes-metodos-variaveis-e-constantes-em-java/
